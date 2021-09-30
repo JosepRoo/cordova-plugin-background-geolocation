@@ -1,5 +1,5 @@
 {
-  "name": "@mauron85/cordova-plugin-background-geolocation",
+  "name": "@jromagosa/cordova-plugin-background-geolocation",
   "version": "3.1.0",
   "description": "Cordova Background Geolocation Plugin",
   "main": "./www/BackgroundGeolocation.js",
@@ -43,5 +43,8 @@
   "bugs": {
     "url": "https://github.com/mauron85/cordova-plugin-background-geolocation/issues"
   },
-  "homepage": "https://github.com/mauron85/cordova-plugin-background-geolocation#readme"
+  "homepage": "https://github.com/mauron85/cordova-plugin-background-geolocation#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
